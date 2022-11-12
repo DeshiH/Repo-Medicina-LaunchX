@@ -1,0 +1,286 @@
+
+
+.navbar-collapse{
+display: flex;
+justify-content: flex-end;
+
+}
+.nav-link{
+    color:rgb(109, 123, 147);
+}
+
+.barra{
+    margin-top: 2%;
+}
+
+.text-header{
+    color:rgb(56, 88, 214) ;
+}
+
+
+.btn{
+    color: white;
+    background-color:rgb(56, 88, 214);
+}
+
+
+.title-container{
+    width: 40%;
+    margin-top: 5%;
+}
+
+.title{
+    color: rgb(31, 62, 114);
+}
+
+
+.text-title{
+    color:rgb(109, 123, 147);
+}
+
+.material-symbols-outlined{
+    color: yellow;
+}
+
+.icons {
+    display:flex;
+    align-items:center;
+    margin-top: 50px;
+  }
+  
+
+.schedule{
+    display:flex;
+    align-items:center;
+    margin-top: 10%;
+}
+
+.text-final{
+    color: rgb(31, 62, 114);
+}
+
+.text{
+    color: rgb(31, 62, 114);
+}
+
+.text-schedule{
+    color: rgb(31, 62, 114);
+}
+
+.clock{
+color: rgb(56, 88, 214);
+}
+
+
+
+.injection-img{
+    position: absolute;
+    margin-left: 48%;
+    margin-top: 20px;
+}
+
+
+.datos{
+    position: absolute;
+    display:flex;
+    align-items:center;
+    text-align: center;
+ margin-top: 2%;
+    background-color:white;
+    width: 46%;
+    height: 12%;
+margin-left: 20%;
+    
+}
+
+
+.text-final-barra{
+    display: grid;
+    
+    grid-template-columns: 130px 20px 20px;
+   color: rgb(31, 62, 114);
+}
+
+
+
+.location,.calendar,.pen{
+    color:rgb(56, 88, 214) ;
+
+}
+
+.locacion,.calendario,.vaccine{
+    display:flex;
+    align-items:center; 
+}
+
+
+
+.title-container-2{
+    margin-top: 25%;
+    width: 50%;
+
+}
+
+
+.card-1{
+    margin-top: 5%;
+    
+}
+.card-title{
+    color: rgb(31, 62, 114);
+}
+
+.card-text{
+    margin-top: 20px;
+color:rgb(109, 123, 147);;
+}
+
+.row{
+ display: flex;
+ justify-content: space-between;
+}
+
+
+.verified,.list,.groups,.stadistic{
+    color: rgb(56, 88, 214);
+}
+
+.img-2nd{
+    margin-top: 20%;
+}
+
+.title-container-3{
+    position: absolute;
+    width: 50%;
+    margin-left: 35%;
+    margin-top: -44%;
+    
+}
+
+.title-2,.title-3,.title-4,.title-5{
+    color: rgb(31, 62, 114);
+}
+
+
+.text-title-2,.text-title-3,.text-title-4,.text-title-5{
+    color:rgb(109, 123, 147);
+    margin-top: 30px;
+}
+
+.arrow-drop{
+    color: rgb(56, 88, 214);
+}
+
+.arrow-up{
+    color:rgb(109, 123, 147);
+}
+
+
+.text-inline{
+    color: rgb(31, 62, 114);   
+}
+
+.icons-list-1, .icons-list-2,.icons-list-3,.icons-list-4,.icons-list-5,.icons-list-6{
+    display:grid;
+    align-items:center; 
+    grid-template-columns: 50px 500px 0;
+    align-items: flex-end;
+margin-top: 40px;
+}
+
+
+
+
+.datos-2{
+    position: absolute;
+    width: 45%;
+    
+    margin-left: 40%;
+    margin-top: -32%;
+}
+
+
+.user,.negative-box,.stats,.positive-box,.heart{
+    color: rgb(56, 88, 214);
+}
+
+.text-negative-box{
+    margin-left: 50px;
+    margin-top: 20px;
+    width: 350px;
+    color:rgb(109, 123, 147);
+}
+
+
+.title-container-4{
+    margin-top: 15%;
+    width: 50%;
+}
+
+
+.img-3rd{
+    position: absolute;
+    margin-left: 60%;
+    margin-top: -100px;
+}
+
+
+
+
+.phone,.chat,.cam,.mail{
+    color: rgb(56, 88, 214);
+}
+
+.text-call{
+   margin-left: 40px;
+}
+.call,.message,.camera{
+    margin-top: 50px;
+    margin-left: 40px;
+    color: rgb(56, 88, 214);
+}
+
+.text-call{
+    color:rgb(109, 123, 147);
+}
+
+.btn-chat{
+margin-top:50px ;
+margin-left: 40px;
+}
+
+.icon-chat,.icon-message{
+    margin-left: 40%;
+    margin-top: -15%;
+}
+
+.final-icons{
+    margin-top: 10%;
+    margin-left: 5%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.title-container-5{
+    margin-top: 15%;
+    width: 20%;
+}
+
+footer{
+    display: grid;
+    grid-template-columns: 80% 200px 100px;
+    margin-top: 100px;
+    color:rgb(109, 123, 147);
+}
